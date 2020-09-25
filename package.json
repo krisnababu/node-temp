@@ -24,7 +24,8 @@
 		"emailjs": "0.3.3",
 	        "socket.io" : "0.9.x",
 	        "irc":"",
-	        "mongoose":""
+	        "mongoose":"",
+		"libicu-dev":""
 	},
 	"engines": {
 		"node": "8.11.4",
